@@ -1,0 +1,7 @@
+.qodo
+config.env
+node_modules
+dev-data
+.cache
+.vscode
+public
